@@ -24,7 +24,6 @@
 
 ---
 
-### README Dosyası:
 
 ---
 
